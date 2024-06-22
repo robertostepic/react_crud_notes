@@ -1,4 +1,6 @@
 # Task List App
+For detailed instructions visit
+https://devtechtutor.com/index.php/2024/06/22/basic-notes-crud-react-app/
 
 ## Project Setup
 
